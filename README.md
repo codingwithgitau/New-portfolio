@@ -1,6 +1,6 @@
 # 🌐 Lewis Gitau – Web Developer Portfolio
 
-Welcome to my personal portfolio website, built with **HTML** and **CSS** for the **PLP Academy Portfolio Challenge**. It highlights my skills, projects, and professional background — all wrapped in a clean, responsive design.
+Welcome to my personal portfolio website, built with **HTML** and **CSS** . It highlights my skills, projects, and professional background — all wrapped in a clean, responsive design.
 
 
 ## ✨ Features
